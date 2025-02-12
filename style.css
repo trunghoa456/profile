@@ -1,0 +1,52 @@
+.home-content h3 {
+    color: red;
+}
+
+.home-content h1{
+    color: red;
+}
+
+.home-content {
+    color: black;
+}
+
+.home-content {
+    color: purple;
+}
+
+.home-content{
+    color: brown;
+} 
+
+.home-content {
+    color: coral;
+}
+
+.home-content {
+    color: black;
+}
+
+.home-content {
+    color: pink;
+}
+
+.home-content{
+    color: darkblue;
+}
+
+.home-content{
+    color: blueviolet;
+}
+
+.so-thich{
+    display: flex;
+    flex-direction: column;
+}
+
+.born{
+    color: forestgreen;
+}
+
+#tinh-cach{
+    color: darkred;
+}
